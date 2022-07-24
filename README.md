@@ -1,7 +1,7 @@
 - 👋 Hi, I’m thanh nham
-- 👀 I’m interested in aiot
-- 🌱 I’m currently learning ai, iot, microservices
-- 💞️ I’m looking to collaborate on the aiot start up plan
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning blockchain, microservices, ai, iot. Now, I only focus on blockchain. 
+- 💞️ I’m looking to collaborate on the blockchain start up plan
 - 📫 How to reach me : By mail nhamchithanh@gmail.com or facebook nhamchithanh
 
 <!---
